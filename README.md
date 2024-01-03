@@ -12,5 +12,5 @@ Working:
 
 ==> In User model we can check whether which user has money pending and also the last shared split amount.
 ==> In ElectricityBill user who is creating the bill can check always whther the money is been paid or not and can see to whom all its being splitted and also cans see the remaining amount if in case any payer is not putting the full amount.
-==> In ExpenseParticipants user can submit the amount, this amount will be paid by the single payer on behalf of all paees.
+==> In ExpenseParticipants user can submit the amount, this amount will be paid by the single payer on behalf of all payees.
 
